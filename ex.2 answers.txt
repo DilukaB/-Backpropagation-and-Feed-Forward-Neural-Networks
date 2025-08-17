@@ -1,0 +1,3 @@
+Q1: Increasing hidden nodes improves model capacity and accuracy at first, but after a point gains are small and overfitting may occur.
+
+Q2: With few nodes the model underfits (low accuracy), more nodes improve accuracy until it plateaus, and too many nodes can cause overfitting.
